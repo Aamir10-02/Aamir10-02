@@ -172,17 +172,6 @@ CraFexT is being developed to help individuals and organisations make better use
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Aamir10-02/Aamir10-02/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🧠 CraFexT
@@ -228,17 +217,6 @@ Full-stack applications and experiments covering backend systems, frontend inter
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aamir10-02&theme=default" alt="Repositories by Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aamir10-02&theme=default" alt="Most Commit Language" />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Aamir10-02&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7"
-    alt="GitHub Trophies"
-  />
 </p>
 
 ---
