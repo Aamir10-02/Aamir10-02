@@ -1,37 +1,303 @@
 <h1 align="center">Hi 👋, I'm Aamir Saiyad</h1>
-<h3 align="center">AI/ML Developer | Software Developer| MSc Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir10-02&label=Profile%20views&color=0e75b6&style=flat" alt="aamir10-02" /> </p>
+<h3 align="center">
+AI/ML Developer • Software Developer • Technical Co-Founder
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aamir10-02" alt="aamir10-02" /></a> </p>
-
-- 🔭 I’m currently working on [CraFexT](https://crafext.com)
-
-- 🌱 I’m currently learning **Advanced LLM applications, AI/ML systems, Web3 and scalable cloud architecture**
-
-- 👯 Technical Co-Founder & AI/Software Developer [CraFexT](https://crafext.com)
-
-- 🤝 Building AI-powered career and workforce technology [CraFexT](https://crafext.com)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Aamir10-02](https://github.com/Aamir10-02)
-
-- 💬 Ask me about **Python, Django, React, NLP, LLMs, RAG, AI applications, APIs & Blockchain**
-
-- 📫 How to reach me **aamir2saiyad@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/aamir-saiyad-926375204/](https://www.linkedin.com/in/aamir-saiyad-926375204/)
-
-- ⚡ Fun fact **I enjoy turning ideas into end-to-end AI and software products.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aamir-saiyad-926375204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aamir-saiyad-926375204/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://crafext.com">
+    <img src="https://img.shields.io/badge/Building-CraFexT-FFD21F?style=for-the-badge&logoColor=black" alt="CraFexT" />
+  </a>
+  <a href="https://github.com/Aamir10-02">
+    <img src="https://img.shields.io/github/followers/Aamir10-02?style=for-the-badge&label=Followers" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/aamir-saiyad-926375204/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aamir10-02&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aamir10-02&show_icons=true&locale=en&layout=compact" alt="aamir10-02" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aamir10-02&show_icons=true&locale=en" alt="aamir10-02" /></p>
+## 👨‍💻 About Me
 
+I'm an **AI/ML Developer and Software Developer** focused on building practical, end-to-end technology products.
+
+I'm particularly interested in the intersection of:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 LLM applications & NLP
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 💻 Full-stack software development
+* ☁️ Cloud architecture & scalable systems
+* ⛓️ Blockchain & Web3 technologies
+* 🚀 Product development and experimentation
+
+I'm currently working as a **Technical Co-Founder & AI/Software Developer at CraFexT**, where I'm building AI-powered career and workforce technology.
+
+> I enjoy turning ideas into working products — from the initial concept and architecture to development, AI integration, APIs, deployment and iteration.
+
+---
+
+## 🚀 Currently Building
+
+### [CraFexT](https://crafext.com)
+
+**AI-powered career & workforce technology**
+
+CraFexT is being developed to help individuals and organisations make better use of skills, career and workforce data through intelligent technology.
+
+**My focus includes:**
+
+* AI-powered career technology
+* Intelligent skills analysis
+* LLM-powered applications
+* AI assessment and interview experiences
+* Career guidance
+* Full-stack product development
+* Data and API integrations
+* Scalable software architecture
+
+<p>
+  <a href="https://crafext.com">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20CraFexT-crafext.com-111111?style=for-the-badge" alt="CraFexT Website" />
+  </a>
+</p>
+
+---
+
+# 🧠 Technical Focus
+
+### Artificial Intelligence & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-0066FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+### Databases & Data
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-1877F2?style=flat-square" />
+</p>
+
+### Cloud, DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+### Blockchain & Web3
+
+<p>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Smart%20Contracts-3C3C3D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aamir10-02&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+    height="180"
+    alt="Aamir's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aamir10-02&layout=compact&hide_border=true&langs_count=8"
+    height="180"
+    alt="Aamir's Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Aamir10-02&hide_border=true"
+    height="180"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aamir10-02&hide_border=true&area=true"
+    alt="Aamir's Contribution Activity Graph"
+  />
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Aamir10-02/Aamir10-02/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 CraFexT
+
+**AI-powered career and workforce technology**
+
+A product focused on intelligent career guidance, skills analysis, assessments and workforce technology.
+
+**Focus:** AI • LLMs • NLP • RAG • Full Stack • APIs • Data
+
+🌐 [Website](https://crafext.com)
+
+---
+
+### 🤖 AI & Machine Learning Projects
+
+A collection of projects exploring machine learning, natural language processing, AI applications and intelligent systems.
+
+**Focus:** Python • ML • NLP • Deep Learning • LLMs
+
+💻 [Explore my repositories](https://github.com/Aamir10-02?tab=repositories)
+
+---
+
+### 💻 Software Development Projects
+
+Full-stack applications and experiments covering backend systems, frontend interfaces, APIs, databases and deployment.
+
+**Focus:** Django • Flask • React • REST APIs • MySQL • PostgreSQL
+
+💻 [Explore my repositories](https://github.com/Aamir10-02?tab=repositories)
+
+---
+
+# 📦 Repository Overview
+
+<p align="center">
+  <a href="https://github.com/Aamir10-02?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aamir10-02&theme=default" alt="Repositories by Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aamir10-02&theme=default" alt="Most Commit Language" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Aamir10-02&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 🎓 Education
+
+### MSc Computer Science
+
+Focused on computer science, software development, artificial intelligence and modern computing technologies.
+
+---
+
+# 🔭 What I'm Interested In
+
+```text
+Artificial Intelligence
+        ↓
+LLMs & NLP
+        ↓
+RAG & Intelligent Applications
+        ↓
+Data & Skills Intelligence
+        ↓
+Full-Stack Product Development
+        ↓
+Scalable Cloud Systems
+        ↓
+Real-World AI Products
+```
+
+I'm particularly interested in taking AI concepts beyond experimentation and turning them into **usable, scalable products**.
+
+---
+
+# 🤝 Let's Connect
+
+I'm interested in connecting with developers, AI/ML engineers, researchers, founders and people working on interesting technology.
+
+<p align="center">
+  <a href="https://github.com/Aamir10-02">
+    <img src="https://img.shields.io/badge/GitHub-Aamir10--02-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aamir-saiyad-926375204/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aamir%20Saiyad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aamir2saiyad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://crafext.com">
+    <img src="https://img.shields.io/badge/CraFexT-Website-FFD21F?style=for-the-badge&logoColor=black" alt="CraFexT" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building, learning, experimenting and turning ideas into software.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find something interesting in my repositories, feel free to explore and connect.
+</p>
