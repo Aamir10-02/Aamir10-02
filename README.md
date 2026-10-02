@@ -161,17 +161,6 @@ CraFexT is being developed to help individuals and organisations make better use
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aamir10-02&hide_border=true&area=true"
-    alt="Aamir's Contribution Activity Graph"
-  />
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ### 🧠 CraFexT
